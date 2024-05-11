@@ -1,1 +1,1 @@
- 1.1 -> Fix duplicated script in service.sh
+ 1.2 -> Fix setprop
