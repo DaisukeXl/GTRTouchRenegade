@@ -1,1 +1,1 @@
- 1.0 -> Fixed possible overheating and graphics bugs
+ 1.1 -> Fix duplicated script in service.sh
