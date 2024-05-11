@@ -1,6 +1,6 @@
 {
-    "version": "v0.8GTR",
-    "versionCode": 080,
-    "zipUrl": "https://github.com/DaisukeXl/GTRTouchRenegade/releases/download/0.7/GTRTouchRenegade.zip",
+    "version": "v1.0",
+    "versionCode": 1000,
+    "zipUrl": "https://github.com/DaisukeXl/GTRTouchRenegade/releases/download/1.0/GTRTouchRenegade.zip",
     "changelog": "https://raw.githubusercontent.com/DaisukeXl/GTRTouchRenegade/main/changelog.md"
 }
