@@ -1,0 +1,7 @@
+id=TouchRevyG3
+name=TouchRevyG3 ⚡️
+version=v0.7GTR
+versionCode=070
+author=Daisuke
+description=A new magisk module that can reduce touch latency and increase responsiveness with new screen changes.
+updateJson=https://raw.githubusercontent.com/DaisukeXl/GTRTouchRenegade/main/update.json
