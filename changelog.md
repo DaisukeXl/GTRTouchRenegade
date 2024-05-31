@@ -1,1 +1,1 @@
- 1.6 --- improved camera quality, improved AI management, improved photo processing, scrolling performance up
+ 1.7 --- improved more camera quality, improved AI management, more scolling performance up
