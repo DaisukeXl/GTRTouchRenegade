@@ -124,7 +124,7 @@ REPLACE="
 print_modname() {
   ui_print ""
   ui_print "*******************************"
-  ui_print "     TouchRevyG3 GTR "
+  ui_print "     TouchRevyG3 GTR   "
   ui_print "*******************************"
   ui_print "*******************************"
   ui_print "     By: RayZTray @ nkg     "
@@ -140,7 +140,7 @@ on_install() {
   # Extend/change the logic to whatever you want
   ui_print "- Extracting module files"
   unzip -o "$ZIPFILE" 'service.sh' -d $MODPATH >&2
-  unzip -o "$ZIPFILE" 'NgenTouchUninstall.sh' -d /sdcard >&2
+  unzip -o "$ZIPFILE" 'config/tweaks.txt' -d /sdcard >&2
 }
 
 # Only some special files require specific permissions
@@ -149,7 +149,7 @@ on_install() {
 
 set_permissions() {
   # The following is the default rule, DO NOT remove
-  set_perm_recursive $MODPATH 0 0 0777 0777
+  set_perm_recursive $MODPATH 0 0 7777 7777
   # Here are some examples:
   # set_perm_recursive  $MODPATH/system/lib       0     0       0755      0644
   # set_perm  $MODPATH/system/bin/app_process32   0     2000    0755      u:object_r:zygote_exec:s0
