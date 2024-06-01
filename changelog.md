@@ -1,1 +1,1 @@
- 1.7 --- improved more camera quality, improved AI management, more scolling performance up
+ 1.8 --- scrolling performance increased, performance objective reached
